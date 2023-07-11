@@ -1,11 +1,5 @@
-- 👋 Hi, I’m @drey_
-- 👀 I’m interested in python...
-- 🌱 I’m currently selling my python projects sourcecodes...
-- 💞️ I’m looking to collaborate on redhat...
-- email: martinaudrey12@gmail.com  
-- 📫 follow: @_drekko_  on instagram...
-
-<!---
-drey-drekko/drey-drekko is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+# Algorithms-Practice
+This repository is dedicated to tracking my data structures and algorithms practice. I use an Anki deck to present DS+algo problems to me at "smart" intervals in order to allow me to get better at implementing certain solutions and to develop my problem solving skills.
+<br />
+<br />
+<img src="https://i.imgur.com/vCoJiJh.png"/>
